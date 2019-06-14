@@ -1,9 +1,8 @@
-#  <span style="color:#1893F8">Implementing SQL queries using Pandas</span>
-I really hope you don't mind that all my commentary is in English. :) 
+#  <span style="color:#1893F8">Implementing SQL queries using Pandas</span> 
 
 
 ## <span style="color:#1893F8">Project description</span>
-The aim of the project is to implement 7 given SQL queries in Python using Pandas.  
+The aim of the project is to implement 6 given SQL queries in Python using Pandas.  
 Each query has a short description of what it's doing and details about my approach in doing the same in 
 Pandas.   
 The resoult is accepted when SQL and Pandas give the same data with eventual difference in permutation of rows.
