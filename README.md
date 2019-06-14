@@ -11,6 +11,3 @@ In every query, as first I present SQL code that I received and right after it t
 
 I am working on a public database of Travel Stack Exchange. https://travel.stackexchange.com/  
 Details about data stes can be foun here. https://ia800107.us.archive.org/27/items/stackexchange/readme.txt
-
-
-I am working on Windows but only becouse I have Jupyter Lab already downloaded here. 
